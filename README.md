@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ntindawt
+- 👋 Hi, I’m @Ntinda Wellington Agusher
 - 👀  I’m currently working on a School management system..
 - 🌱 I’m currently learning  PHP, JS, Flutter,  GPS & GSM based Tracking
 - 💞️ I’m looking to collaborate on any PHP projects
