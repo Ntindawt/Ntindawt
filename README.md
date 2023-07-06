@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ntinda Wellington Agusher
 - 👀  I’m currently working on a School management system..
-- 🌱 I’m currently learning  PHP, JS, Flutter,  GPS & GSM based Tracking
+- 🌱 I’m working with  PHP, JS, Flutter,  GPS & GSM based Tracking
 - 💞️ I’m looking to collaborate on any PHP projects
 - 📫 How to reach me ...: ntindawt@gmail.com
 
