@@ -11,9 +11,11 @@ hamburger.addEventListener('click', () => {
 document.addEventListener('scroll', () => {
 	var scroll_position = window.scrollY;
 	if (scroll_position > 250) {
-		header.style.backgroundColor = '#29323c';
+		header.style.backgroundColor = 'rgba(10, 31, 68, 0.95)';
+		header.style.boxShadow = '0 6px 24px rgba(10, 31, 68, 0.25)';
 	} else {
-		header.style.backgroundColor = 'transparent';
+		header.style.backgroundColor = 'rgba(10, 31, 68, 0.78)';
+		header.style.boxShadow = 'none';
 	}
 });
 
